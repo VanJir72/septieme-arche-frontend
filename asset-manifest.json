@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/septieme-arche-frontend/static/css/main.c6ea4a03.css",
+    "main.js": "/septieme-arche-frontend/static/js/main.b731735f.js",
+    "static/js/787.3187f555.chunk.js": "/septieme-arche-frontend/static/js/787.3187f555.chunk.js",
+    "index.html": "/septieme-arche-frontend/index.html",
+    "main.c6ea4a03.css.map": "/septieme-arche-frontend/static/css/main.c6ea4a03.css.map",
+    "main.b731735f.js.map": "/septieme-arche-frontend/static/js/main.b731735f.js.map",
+    "787.3187f555.chunk.js.map": "/septieme-arche-frontend/static/js/787.3187f555.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c6ea4a03.css",
+    "static/js/main.b731735f.js"
+  ]
+}

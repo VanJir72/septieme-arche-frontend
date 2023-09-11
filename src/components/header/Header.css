@@ -1,0 +1,23 @@
+.navbar {
+  background-color: #ecc89f;
+  border-bottom: solid 3px #813805;
+  font-weight: bold;
+}
+
+
+.cartWrapper {
+    position: relative;
+  }
+  
+.cartCount {
+  position: absolute;
+  width: 120px;
+  top: -10px;
+  left: 0px;
+  padding: 8px 10px;
+  margin-right: 10px;
+  color: white;
+  background-color: #813805;
+  /* border-radius: 50%; */
+  font-size: 18px;
+}
