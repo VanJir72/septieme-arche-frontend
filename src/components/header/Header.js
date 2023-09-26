@@ -58,14 +58,15 @@ function Header() {
        
 
             <Nav.Link href='/cart'>
-            <div className="cartWrapper">
-              <span className="cartCount">
-              PANIER:{ " " + cartItemsCount}
-              </span>
-              
-              {/* <i className="bi bi-cart2" style={{ fontSize: "20px", cursor: 'pointer' }} /> */}
-            </div>
-          </Nav.Link> 
+              <div className="cartWrapper">
+                <span className="cartCount">
+                PANIER:{ " " + cartItemsCount}
+                </span>
+                {/* Ou on peut utiliser l'icon:
+                <i className="bi bi-cart2" 
+                style={{ fontSize: "20px", cursor: 'pointer' }} />  */}
+              </div>
+            </Nav.Link> 
 
           </Nav>
         </Navbar.Collapse>
